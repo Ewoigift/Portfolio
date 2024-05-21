@@ -35,6 +35,25 @@ nav {
   align-items: center;
 }
 
+.navbar-brand {
+    font-size: 24px; 
+    font-weight: bold;
+    color: #071739; 
+}
+
+.navbar-brand span {
+    color: #4B6382; 
+}
+
+.navbar-brand:hover {
+    color: #A4B5C4; 
+}
+
+.navbar-brand span:hover {
+    color: #071739; 
+}
+
+
 .navbar-brand img.header__logo {
     height: 50px; 
     width: auto;
